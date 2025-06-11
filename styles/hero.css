@@ -111,9 +111,9 @@ section.hero {
             max-width: 2.5rem;
             bottom: 35%;
             right: 0;
-            z-index: 0;
+         
             transform: translateX(400%);
-            animation: slideIn 2.2 800ms ease forwards;
+            animation: slideIn 2.2s 800ms ease both;
         }
      }
 }
